@@ -44,9 +44,9 @@ export default function Conf() {
 
   const meta = {
 
-    title: 'Demo - Virtual Event Starter Kit',
+    title: 'RepoBot - codes',
 
-    description: META_DESCRIPTION
+    description: welcome (codes) 
 
   };
 
